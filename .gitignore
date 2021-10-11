@@ -1,0 +1,8 @@
+fonts/
+node_modules/
+public/css/font-awesome.*
+temp/
+test/
+public/js/
+*.log
+*.code-*
